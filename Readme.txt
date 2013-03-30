@@ -1,3 +1,4 @@
+License: WTFPL
 Useful feature is only ActionSelectionComponent.
 This class provides action selection function to Panel.
 Way to use is explained in ActionSelectionSample.py.
